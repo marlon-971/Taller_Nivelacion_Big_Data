@@ -1,6 +1,8 @@
 # Taller_Nivelacion_Big_Data
 Solución de 12 Ejercicios de un Sistema de Análisis de Datos Hospitalarios con SQL. Es un Taller de nivelación de la especialización de Big Data
+
 Preguntas 
+
 Pregunta 1 
 ¿Cuantos pacientes hay registrados en el hospital? 
  
@@ -29,9 +31,12 @@ Pregunta 8
  
 Pregunta 9 
 ¿Cual es la especialidad medica que genera mas ingresos y cuanto es el total? 
+
 Pregunta 10 
 ¿Que rango de edad y genero tiene la mayor cantidad de pacientes? 
+
 Pregunta 11 
 ¿Cuantos doctores han atendido mas de 30 consultas? 
+
 Pregunta 12 
 ¿Cuantos pacientes han tenido mas de 3 consultas en el ultimo ano?
