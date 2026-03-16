@@ -1,49 +1,91 @@
 # Taller_Nivelacion_Big_Data
 Solución de 12 Ejercicios de un Sistema de Análisis de Datos Hospitalarios con SQL. Es un Taller de nivelación de la especialización de Big Data
+
 Sistema de Análisis de Datos Hospitalarios con SQL
+
 Descripción del Proyecto
+
 Este proyecto consiste en el análisis de una base de datos hospitalaria utilizando SQL.
+
 El objetivo es aplicar consultas para obtener información relevante sobre pacientes, doctores y consultas médicas.
+
 A través de diferentes ejercicios se realizan operaciones como:
+
 Filtrado de información
+
 Agregaciones estadísticas
+
 Análisis de distribución de datos
+
 Uso de funciones SQL como COUNT, AVG, SUM
+
 Consultas avanzadas con JOIN, GROUP BY y HAVING
+
 La base de datos incluye información relacionada con pacientes registrados, doctores del hospital y las consultas médicas realizadas.
+
 Tabla de Contenidos
+
 Descripción del Proyecto
+
 Estructura de la Base de Datos
+
 Guía de Instalación y Configuración
+
 Ejercicios SQL
+
 Recursos y Videos Explicativos
+
 Estructura de la Base de Datos
+
 El sistema está compuesto por tres tablas principales:
+
+
 Pacientes
+
 Contiene la información de los pacientes registrados en el hospital.
+
 id
+
 nombre
+
 edad
+
 genero
+
 tipo_sangre
+
 fecha_registro
+
 
 Doctores
 
 Contiene la información del personal médico.
+
 id
+
 nombre
+
 especialidad
+
 anios_experiencia
+
 consultorio
 
+
 Consultas
+
 Registra cada consulta médica realizada.
+
 id
+
 paciente_id
+
 doctor_id
+
 fecha
+
 diagnostico
+
 costo
 
 
